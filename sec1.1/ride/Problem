@@ -31,7 +31,7 @@ COMETQ
 HVNGAT
 OUTPUT FORMAT
 
-A single line containing either the word "GO" or the word "STAY".
+A single line containing either the word "GO"  or the word "STAY".
 SAMPLE OUTPUT (file ride.out)
 
 GO
