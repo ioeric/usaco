@@ -40,7 +40,7 @@ PROGRAM NAME: beads
 
 INPUT FORMAT
 
-Line 1:   N, the number of beads
+Line 1:                 N, the number of beads
 Line 2:	 a string of N characters, each of which is r, b, or w
 SAMPLE INPUT (file beads.in)
 
@@ -60,3 +60,4 @@ Consider two copies of the beads (kind of like being able to runaround the ends)
 wwwbbrwrbrbrrbrbrwrwwrbwrwrrb|wwwbbrwrbrbrrbrbrwrwwrbwrwrrb
                        ******|*****
                        rrrrrb|bbbbb  <-- assignments
+                       5 x r  6 x b  <-- 11 total
